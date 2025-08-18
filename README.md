@@ -1,19 +1,14 @@
-## Hi there 👋
-
 ![profile_banner](https://github.com/PressToCode/PressToCode/blob/main/header.png)
 
-<h1 align="center">Hi 👋, I'm Muhammad Olfat Faiz</h1>
+<h1 align="center">Muhammad Olfat Faiz</h1>
 <h3 align="center">A Student developer from Indonesia</h3>
 
 - 🎓 A student of Brawijaya University, enrolled in Information Technology (Bachelor)
 
-- 🤖 Enthusiastic about programmings
+- 🤖 Enthusiastic about programming and puzzles
 
 - 📫 How to reach me: **olfatfaiz@gmail.com**
 
-- 📄 Know about my experiences [...](...)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
