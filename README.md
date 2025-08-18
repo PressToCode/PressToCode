@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[https://github.com/PressToCode/PressToCode/blob/main/header.png]
+![profile_banner](https://github.com/PressToCode/PressToCode/blob/main/header.png)
+
 <!--
 **PressToCode/PressToCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
