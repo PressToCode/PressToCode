@@ -6,7 +6,7 @@
 
 - 🤖 Interested in design, development and automation
 
-- 📫 How to reach me: **olfatfaiz@gmail.com**
+- 📫 How to reach me: **code.olfatfaiz@gmail.com**
 
 <p align="left">
 </p>
